@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_TELEMEDICINE
+name: alice-telemedicine
 description: ALICE Telemedicine
 type: application
 version: 0.1.0
